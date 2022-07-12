@@ -1,2 +1,2 @@
-# JS-projects
-projects
+# js search
+ Javascript , html and css
